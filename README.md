@@ -6,16 +6,6 @@ Topic
 Tree Traversals — Pre-order, In-order and Post-order
 
 
-Group Members
-
-Name	ID Number
-Fanuel Aregay. 	    CEP0053/17
-Abrham Nega	        CEP0008/17
-Aman Haftu.       	CEP0015/17
-Habtamu Gizaw	      CEP0064/17
-Fikremaryam Belete	CEP0056/17
-
-
 Repository Structure
 
 DSA-Roleplay-Ch2-6/

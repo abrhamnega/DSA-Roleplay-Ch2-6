@@ -4,7 +4,7 @@
 
 This repository contains our group simulation project for the Data Structures and Algorithms (DSA) course.
 
-Our group selected **Tree Traversals** from Chapter 5. The project demonstrates three types of tree traversal using a physical role-play simulation:
+Our group selected **Tree Traversals** from Chapter 5. We demonstrate three types of tree traversal using a **Binary Search Tree (BST)**:
 
 - Pre-order Traversal
 - In-order Traversal
@@ -20,21 +20,19 @@ Our group selected **Tree Traversals** from Chapter 5. The project demonstrates 
 | 4 | Habtamu Gizaw | CEP0064/17 |
 | 5 | Fikremaryam Belete | CEP0056/17 |
 
-## Topic
+## BST Used in the Simulation
 
-### Tree Traversals
+The **root of our BST is 10**.
 
-The simulation uses the following traversal rules:
+The values used to construct the BST are:
 
-- **Pre-order:** Root → Left → Right
-- **In-order:** Left → Root → Right
-- **Post-order:** Left → Right → Root
+**10, 5, 2, 20, 15**
 
-The tree used in the simulation is:
+The resulting BST is:
 
 ```text
-        A
-       / \
-      B   C
-     / \
-    D   E
+        10
+       /  \
+      5    20
+     /    /
+    2    15
